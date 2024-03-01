@@ -1,0 +1,9 @@
+F:\c sharp\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.exe.config
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.csprojResolveAssemblyReference.cache
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.Form1.resources
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.Properties.Resources.resources
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.csproj.GenerateResource.Cache
+F:\c sharp\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.exe
+F:\c sharp\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.pdb
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.exe
+F:\c sharp\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.pdb
